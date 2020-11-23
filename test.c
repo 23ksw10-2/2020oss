@@ -1,3 +1,2 @@
-30
-
-from Test
+40
+from 2
